@@ -1,4 +1,6 @@
-# story_concept_app
+# Flutter Story App UI
+
+![](assets/preview.png)
 
 A new Flutter application UI concept.
 
